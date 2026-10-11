@@ -4,6 +4,11 @@ A modular Python framework combining modern portfolio theory, statistical factor
 
 ---
 
+
+## Documentation
+
+- 📄 [Read the mathematical derivation](docs\math_derivation\MV_Optimization_Spec.pdf)
+
 ## Architecture Overview
 
 The repository is organized into distinct submodules for data ingestion, portfolio analytics, historical backtesting, and stochastic calculus:
