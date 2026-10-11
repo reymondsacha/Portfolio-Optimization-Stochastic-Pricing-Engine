@@ -7,7 +7,7 @@ A modular Python framework combining modern portfolio theory, statistical factor
 
 ## Documentation
 
-- 📄 [Read the mathematical derivation](docs\math_derivation\MV_Optimization_Spec.pdf)
+- 📄 [Read the mathematical derivation](docs/math_derivation/MV_Optimization_Spec.pdf)
 
 ## Architecture Overview
 
